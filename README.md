@@ -1,7 +1,9 @@
 # Time-Series-Modelling
 
-### Steps performed in this notebook:
 The content of this analysis refer to the Univariate time series modelling that is only one variable will be explored, which is the Electricty consumption measured in Watts/Kilowatts between 1985 to 2014. 
+
+
+### Steps covered in this notebook:
 
 ### EDA:
 - Identifying trend patterns
