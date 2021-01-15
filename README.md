@@ -1,7 +1,6 @@
 # Time-Series-Modelling
 
-The content of this analysis refer to the Univariate time series modelling that is only one variable will be explored, which is the Electricty consumption measured in Watts/Kilowatts between 1985 to 2014. 
-
+The purpose of this time series analysis is to shed light on the trend and seasonality of electricty consumption between the years 1985 to 2014,and application of the ARIMA model to the dataset and its evaluation. Furthermore, the analysis will be Univariate that is only one variable will be explored, and the measurement scale is denoted in Watts/Kilowatts.
 
 ### Steps covered in this notebook:
 
