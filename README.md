@@ -9,7 +9,7 @@ The content of this analysis refer to the Univariate time series modelling that 
 - Identifying trend patterns
 - Applying Smoothing techniques using Moving-Average
 - Seasonal decomposition procedures
-- Test for stationarity
+- Testing for stationarity
 - White Noise detection
 - Autcorrelation and Partial Autocorrelation analysis
 - Differencing technique - Making Time series stationary 
