@@ -6,12 +6,12 @@ The purpose of this time series analysis is to shed light on the trend and seaso
 
 ### EDA:
 - Identifying trend patterns
-- Applying Smoothing techniques using Moving-Average
+- Applying smoothing techniques using Moving-Average
 - Seasonal decomposition procedures
 - Testing for stationarity
-- White Noise detection
-- Autcorrelation and Partial Autocorrelation analysis
-- Differencing technique - Making Time series stationary 
+- White noise detection
+- Autcorrelation and partial autocorrelation analysis
+- Differencing technique - Making time series stationary 
 
 ### Modelling:
 - Time-Series Modelling using the ARIMA model
